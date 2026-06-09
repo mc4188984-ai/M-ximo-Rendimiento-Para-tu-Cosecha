@@ -1,0 +1,6 @@
+{
+  "name": "Venta de Productos Agroindustriales",
+  "description": "Plataforma completa de venta y cotización de productos agroindustriales: maquinaria, semillas, fertilizantes, herramientas y soporte técnico para potenciar el rendimiento del campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
